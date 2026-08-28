@@ -1,4 +1,4 @@
-# Zorin-OS-Minimal-Zorin-OS-Server
+# Zorin OS Minimal/Zorin OS Server
 
 Not affiliated with Zorin OS BTW
 
