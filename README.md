@@ -22,7 +22,7 @@ login on tty3
 
 run sudo apt update
 
-run sudo systemctl stop gdm;sudo systemctl disbale gdm
+run sudo systemctl stop gdm;sudo systemctl disable gdm
 
 remove zorin os desktop
 sudo apt purge zorin-os-desktop
@@ -63,7 +63,7 @@ login on tty3
 
 run sudo apt update
 
-run sudo systemctl stop gdm;sudo systemctl disbale gdm
+run sudo systemctl stop gdm;sudo systemctl disable gdm
 
 remove zorin os desktop
 sudo apt purge zorin-os-desktop
