@@ -33,6 +33,8 @@ sudo apt autoremove && sudo apt clean
 Force Purge the Remaining Zorin Components
 sudo apt purge zorin-appearance gdm3 gnome-shell-extension-zorin-desktop-icons
 
+then sudo apt autoremove -y
+
 ls /usr/share/xsessions/
 if theres no zorin.desktop you can continue to reboot
 if theres zorin.desktop run it by sudo rm /usr/share/xsessions/zorin.desktop
@@ -73,6 +75,8 @@ sudo apt autoremove && sudo apt clean
 
 Force Purge the Remaining Zorin Components
 sudo apt purge zorin-appearance gdm3 gnome-shell-extension-zorin-desktop-icons
+
+then sudo apt autoremove -y
 
 ls /usr/share/xsessions/
 if theres no zorin.desktop you can continue to reboot
