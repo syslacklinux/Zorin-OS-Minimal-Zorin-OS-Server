@@ -39,6 +39,26 @@ ls /usr/share/xsessions/
 if theres no zorin.desktop you can continue to reboot
 if theres zorin.desktop run it by sudo rm /usr/share/xsessions/zorin.desktop
 
+remove gnome software and flatpak by running sudo apt purge gnome-software flatpak
+Remove snap
+
+You May Stop The Services Of Snap
+   sudo systemctl stop snapd
+   sudo systemctl disable snapd
+
+  Purge Snapd (Recommended)
+  sudo apt purge snapd
+
+  Clean Up Leftover Directories
+  rm -rf ~/snap
+  sudo rm -rf /var/snap /var/lib/snapd /var/cache/snapd
+
+  Autoremove
+  sudo apt autoremove
+
+  System Updates: Zorin OS may reinstall Snapd during major upgrades. To prevent this, you can block Snapd from being reinstalled:
+  sudo apt-mark hold snapd
+
 sudo reboot
 
 You can continue without gui or install other desktop environment or window manager you like
@@ -50,7 +70,6 @@ If you are installing KDE Or Cinnamon
 
 If you are installing KDE
 Right Click then Configure application launcher Then Icon then change from default to /usr/share/pixmaps/ zorin-logo.svg you can click Browse then /usr/share/pixmaps then select zorin-logo.svg
-Then remove gnome-software by running sudo apt purge gnome-software then sudo apt autoremove
 
 If you are installing Cinnamon
 Dont forget to install lightdm-gtk-greeter this can be done by running sudo apt install lightdm-gtk-greeter
@@ -97,6 +116,26 @@ then sudo apt autoremove -y
 ls /usr/share/xsessions/
 if theres no zorin.desktop you can continue to reboot
 if theres zorin.desktop run it by sudo rm /usr/share/xsessions/zorin.desktop
+
+remove gnome software and flatpak by running sudo apt purge gnome-software flatpak
+Remove snap
+
+You May Stop The Services Of Snap
+   sudo systemctl stop snapd
+   sudo systemctl disable snapd
+
+  Purge Snapd (Recommended)
+  sudo apt purge snapd
+
+  Clean Up Leftover Directories
+  rm -rf ~/snap
+  sudo rm -rf /var/snap /var/lib/snapd /var/cache/snapd
+
+  Autoremove
+  sudo apt autoremove
+
+  System Updates: Zorin OS may reinstall Snapd during major upgrades. To prevent this, you can block Snapd from being reinstalled:
+  sudo apt-mark hold snapd
 
 sudo reboot
 
