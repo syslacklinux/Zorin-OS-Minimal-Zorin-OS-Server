@@ -46,19 +46,19 @@ You can continue without gui or install other desktop environment or window mana
 If you install kde plasma or other desktop environment that have /usr/share/wallpapers while there is still have /usr/share/backgrounds you can run sudo mv /usr/share/backgrounds /usr/share/wallpapers/
 then set the zorin os wallpaper from /usr/share/backgrounds that you moved to /usr/share/wallpapers/
 
-If you are using KDE Or Cinnamon
+If you are installing KDE Or Cinnamon
 
-If you are on KDE
+If you are installing KDE
 Right Click then Configure application launcher Then Icon then change from default to /usr/share/pixmaps/ zorin-logo.svg you can click Browse then /usr/share/pixmaps then select zorin-logo.svg
 Then remove gnome-software by running sudo apt purge gnome-software then sudo apt autoremove
 
-If you are on Cinnamon
+If you are installing Cinnamon
 Dont forget to install lightdm-gtk-greeter this can be done by running sudo apt install lightdm-gtk-greeter
 Then run sudo apt remove desktop-base then run sudo apt purge desktop-base then sudo apt autoremove
 Then Right Click on Menu Button then Click Configure then Enable Use a custom icon and label then Open Icon then change from default cinnamon icon to zorin-desktop_badge-symbolic
 Then Right Click then Change Desktop Background Then Select Wallpapers From Zorin OS that available on /usr/share/backgrounds
 
-If you are on Other Desktop Environment
+If you are installing Other Desktop Environment
 Change Desktop Background From Default to Wallpapers From Zorin OS that available on /usr/share/backgrounds
 
 # To install Zorin OS Server
