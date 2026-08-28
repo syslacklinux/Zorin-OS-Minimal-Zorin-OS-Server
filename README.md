@@ -50,6 +50,7 @@ If you are using KDE Or Cinnamon
 
 If you are on KDE
 Right Click then Configure application launcher Then Icon then change from default to /usr/share/pixmaps/ zorin-logo.svg you can click Browse then /usr/share/pixmaps then select zorin-logo.svg
+Then remove gnome-software by running sudo apt purge gnome-software then sudo apt autoremove
 
 If you are on Cinnamon
 Dont forget to install lightdm-gtk-greeter this can be done by running sudo apt install lightdm-gtk-greeter
