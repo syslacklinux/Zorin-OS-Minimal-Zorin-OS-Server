@@ -40,6 +40,7 @@ if theres no zorin.desktop you can continue to reboot
 if theres zorin.desktop run it by sudo rm /usr/share/xsessions/zorin.desktop
 
 remove gnome software and flatpak by running sudo apt purge gnome-software flatpak
+
 Remove snap
 
 You May Stop The Services Of Snap
@@ -118,6 +119,7 @@ if theres no zorin.desktop you can continue to reboot
 if theres zorin.desktop run it by sudo rm /usr/share/xsessions/zorin.desktop
 
 remove gnome software and flatpak by running sudo apt purge gnome-software flatpak
+
 Remove snap
 
 You May Stop The Services Of Snap
