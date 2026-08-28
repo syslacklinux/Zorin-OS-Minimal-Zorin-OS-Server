@@ -53,6 +53,7 @@ Right Click then Configure application launcher Then Icon then change from defau
 
 If you are on Cinnamon
 Dont forget to install lightdm-gtk-greeter this can be done by running sudo apt install lightdm-gtk-greeter
+Then run sudo apt remove desktop-base then run sudo apt purge desktop-base then sudo apt autoremove
 Then Right Click on Menu Button then Click Configure then Enable Use a custom icon and label then Open Icon then change from default cinnamon icon to zorin-desktop_badge-symbolic
 Then Right Click then Change Desktop Background Then Select Wallpapers From Zorin OS that available on /usr/share/backgrounds
 
