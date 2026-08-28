@@ -41,6 +41,8 @@ sudo reboot
 
 You can continue without gui or install other desktop environment or window manager you like
 
+If you install kde plasma or other desktop environment that have /usr/share/wallpapers while there is still have /usr/share/backgrounds you can run sudo mv /usr/share/backgrounds /usr/share/wallpapers/
+
 # To install Zorin OS Server
 
 Download Zorin OS on the website https://zorin.com/os/download/
