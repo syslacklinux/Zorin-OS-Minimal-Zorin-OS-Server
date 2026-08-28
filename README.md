@@ -39,7 +39,7 @@ if theres zorin.desktop run it by sudo rm /usr/share/xsessions/zorin.desktop
 
 sudo reboot
 
-You can continue without gui or install other desktop environment or window managers you like
+You can continue without gui or install other desktop environment or window manager you like
 
 # To install Zorin OS Server
 
