@@ -4,7 +4,7 @@ Not affiliated with Zorin OS BTW
 
 # To install Zorin OS Minimal
 
-Download Zorin OS on the website https://zorin.com/os/download/
+Download Zorin OS Core on the website https://zorin.com/os/download/
 
 Flash iso from usb
 
@@ -45,7 +45,7 @@ If you install kde plasma or other desktop environment that have /usr/share/wall
 
 # To install Zorin OS Server
 
-Download Zorin OS on the website https://zorin.com/os/download/
+Download Zorin OS Core on the website https://zorin.com/os/download/
 
 Flash iso from usb
 
