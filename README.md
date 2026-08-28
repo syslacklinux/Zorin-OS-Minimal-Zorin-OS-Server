@@ -2,7 +2,7 @@
 
 Not affiliated with Zorin OS BTW
 
-To install Zorin OS Minimal
+# To install Zorin OS Minimal
 
 Download Zorin OS on the website https://zorin.com/os/download/
 
@@ -39,7 +39,9 @@ if theres zorin.desktop run it by sudo rm /usr/share/xsessions/zorin.desktop
 
 sudo reboot
 
-To install Zorin OS Server
+You can continue without gui or install other desktop environment or window managers you like
+
+# To install Zorin OS Server
 
 Download Zorin OS on the website https://zorin.com/os/download/
 
