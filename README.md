@@ -114,7 +114,7 @@ sudo reboot
 
 Then install any server apps like apache or similar
 
-If you Prefer with GUI
+If you Prefer Server with GUI
 
 Login to zorin os desktop
 Then install any server apps like apache or similar
