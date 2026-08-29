@@ -17,6 +17,7 @@ Servers where you don’t want Snap/Flatpak overhead
 Learning environments for Linux internals
 
 Pros Lightweight, customizable, fast, no Snap/Flatpak overhead
+
 Cons Manual setup, CLI‑only, risk of breakage, upgrade caveats
 
 Zorin OS Server is a variant of Zorin OS designed for enterprise scalability. It removes the desktop stack but retains Flatpak and Snap for modular app deployment. It can run large workloads like OpenStack, Kubernetes, or render farms.
@@ -34,6 +35,7 @@ Enterprise applications needing containerized or modular software
 Admins who may still want optional GUI access
 
 Pros Scalable, retains Snap/Flatpak, server‑ready, optional GUI
+
 Cons Heavier, larger attack surface if not hardened, manual desktop removal, resource overhead
 
 # To install Zorin OS Minimal
