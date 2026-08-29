@@ -102,9 +102,6 @@ sudo reboot
 
 You can continue without gui or install other desktop environment or window manager you like
 
-If you are installing Any Desktop Environment You Like
-Change Desktop Background From Default to Wallpapers From Zorin OS that available on /usr/share/backgrounds by right click then change wallpaper then change Default to Wallpapers From Zorin OS that available on /usr/share/backgrounds
-
 # To install Zorin OS Server
 
 Download Zorin OS Core on the website https://zorin.com/os/download/
