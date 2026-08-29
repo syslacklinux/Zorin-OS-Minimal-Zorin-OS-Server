@@ -2,6 +2,8 @@
 
 Not affiliated with Zorin OS BTW
 
+For 32 bit Variant https://github.com/syslacklinux/Zorin-OS-Minimal-Zorin-OS-Server-32-bit
+
 Zorin OS Minimal Is a stripped‑down version of Zorin OS without a graphical desktop, Flatpak, or Snap. It’s lighter than Zorin Lite because it removes all GUI components and package managers that add overhead.
 
 Ideal for users who want maximum performance, minimal background services, and full control over what gets installed. It’s essentially a headless Debian‑based system that you can customize with your own desktop environment or keep purely CLI.
