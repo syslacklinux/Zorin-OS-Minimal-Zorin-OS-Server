@@ -2,7 +2,7 @@
 
 Not affiliated with Zorin OS BTW
 
-Zorin OS Minimal Is a lightweight version of Zorin OS without graphical environment and its lighter than Zorin OS Lite
+Zorin OS Minimal Is a lightweight version of Zorin OS without graphical environment or flatpak and snap and its lighter than Zorin OS Lite
 
 Zorin OS Server brings economic and technical scalability to your enterprise data center, public or private cloud. Whether you want to deploy an OpenStack cloud, a Kubernetes cluster, or a 50,000-node render farm, Zorin OS Server delivers the best value scale-out performance available.
 
