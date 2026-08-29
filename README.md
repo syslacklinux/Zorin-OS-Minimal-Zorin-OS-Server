@@ -108,26 +108,7 @@ ls /usr/share/xsessions/
 if theres no zorin.desktop you can continue to reboot
 if theres zorin.desktop run it by sudo rm /usr/share/xsessions/zorin.desktop
 
-remove gnome software and flatpak by running sudo apt purge gnome-software flatpak
-
-Remove snap
-
-You May Stop The Services Of Snap
-   sudo systemctl stop snapd
-   sudo systemctl disable snapd
-
-  Purge Snapd (Recommended)
-  sudo apt purge snapd
-
-  Clean Up Leftover Directories
-  rm -rf ~/snap
-  sudo rm -rf /var/snap /var/lib/snapd /var/cache/snapd
-
-  Autoremove
-  sudo apt autoremove
-
-  System Updates: Zorin OS may reinstall Snapd during major upgrades. To prevent this, you can block Snapd from being reinstalled:
-  sudo apt-mark hold snapd
+remove gnome software only but keep flatpak and snap by running sudo apt purge gnome-software then sudo apt autoremove
 
 sudo reboot
 
